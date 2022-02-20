@@ -10,4 +10,8 @@ class MainActivity2 : AppCompatActivity() {
 
 
     }
+    fun bugFix()
+    {
+
+    }
 }
